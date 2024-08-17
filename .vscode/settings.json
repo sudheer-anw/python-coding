@@ -1,0 +1,7 @@
+{
+    "livePreview.defaultPreviewPath": "/training-code/day_69/blog-with-users/templates/contact.html",
+    "DockerRun.DisableDockerrc": true,
+    "DockerRun.Containers": [
+        "bd8281d7e68f"
+    ]
+}
